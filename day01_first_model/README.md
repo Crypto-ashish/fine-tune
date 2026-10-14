@@ -2,6 +2,8 @@
 
 Load a small pretrained chat model (Qwen2.5-0.5B-Instruct) and generate answers to prompts.
 
+> New to programming? Do [Day 0](../day00_programming_basics/) first. Its Bridge table explains every line of this code.
+
 ## Files
 
 | File | What it is |
