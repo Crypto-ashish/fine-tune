@@ -1,0 +1,5 @@
+# Day 1 requirements
+# Google Colab already includes torch - only transformers/accelerate need upgrading there.
+torch>=2.5
+transformers>=4.56
+accelerate>=1.0
