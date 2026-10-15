@@ -1,0 +1,10 @@
+{"instruction": "Write an Instagram caption for a new product.", "input": "Product: millet cookies, Rs 249", "output": "Crunchy millet cookies, baked fresh this morning. Rs 249 a box."}
+{"instruction": "Write an Instagram caption for a customer review.", "input": "Customer: Priya. Product: brownies", "output": "Priya says our almond flour brownies beat regular ones. Thank you, Priya!"}
+{"instruction": "Write an Instagram caption for a behind-the-scenes post.", "input": "Scene: 6 am, kneading dough", "output": "6 am in our kitchen. Everything you order is baked the same morning."}
+{"instruction": "Write an Instagram caption for a new product.", "input": "Product: millet cookies, Rs 249", "output": "Crunchy millet cookies, baked fresh this morning. Rs 249 a box."}
+{"instruction": "Write an Instagram caption for a festival offer.", "input": "Festival: Diwali. Box of 4 treats, Rs 799"}
+{"instruction": "Write an Instagram caption for a restock.", "input": "Product: banana bread, 30 loaves", "output": "   "}
+{"instruction": "  Write an Instagram caption for a restock.  ", "input": "Product: walnut brownies, Saturday", "output": "Walnut brownies are back this Saturday.   Reserve yours in our DMs."}
+{"instruction": "Write an Instagram caption answering a question.", "input": "Question: Is gluten free only for coeliacs?", "output": "For coeliacs it is essential. Many others choose it because it suits them. Either way, our bakes taste great first."}
+{"instruction": "Write an Instagram caption for a festival offer.", "input": "Festival: Lohri. Til-gur cookies, Rs 199", "output": "Lohri special: til-gur cookies, gluten free and full of warmth. Rs 199 a pack."}
+{"instruction": "Write a caption", "output": "Oops, the closing bracket is missing"
